@@ -38,13 +38,19 @@ html, body{
 	padding: 8px 0px;
 }
 .logo{
+    
 	&__text{
-		color: #1F2041;
+		margin: 0;
+        color: #1F2041;
+        display: inline-block;
+        vertical-align:middle;
 	}
 	&__img{
-		margin-right:13px;
+        margin-right:13px;
+        display: inline-block;
+        vertical-align: middle;
 	}
-}
+}	
 .menu{
 	list-style: none;
 	margin: 0;

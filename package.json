@@ -7,6 +7,6 @@
     "parcel": "^2.0.0-alpha.3.2"
   },
   "dependencies": {
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
